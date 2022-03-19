@@ -58,3 +58,5 @@
 
 ### No classmates were consulted on this project except for Miles Milosevich, he helped with database Views
 ### Some code was copied from class notes
+
+###UPDATE SQL code seems to have been lost from this assignment, but I will keep looking. It was ###mainly just setting up the Data tables which are populated from these Python scripts anyway.
